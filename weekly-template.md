@@ -10,7 +10,7 @@ In this section, you should provide a **bulleted list** of **links** to exercise
 | Learned | How to Make          | Columns   |
 |-|
 
-- [Chapter 3, exercise 3](https://github.com/cjt26/Week-1): Learned the syntax for making a bar chart with `ggplot2`.
+- [Chapter 3, exercise 3](https://github.com/cjt26/Week-1): showed how the ls command is helpful
 
 ## New Skills and Challenges
 In this section, describe the new skills you acquired and challenges you encountered. The format is up to you -- feel free to use a list, a table, sub-headers, or any other format you see fit. Identifying concepts that you find difficult can help you round out your skills in a systematic way.
