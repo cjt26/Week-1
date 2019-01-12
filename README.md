@@ -1,23 +1,13 @@
-# Exercise 1
-In this exercise you'll practice using git to clone and edit repositories, as will be required for later exercises.
+# Exercise 2
+Using the text-edit of your choice (e.g., Atom), create a new file called `README.md`. Alternatively, you may clone this repository and edit this file.
 
-1. If you haven't already, configure your name and email address for your GitHub account using the terminal.
+In your `README.md` document, make a three column table of the current courses you are taking, with separate columns for course number (in **bold**), course title (in _italics_), and instructor name.
 
-2. If you haven't created your own version of this repository on GitHub (e.g., by forking it, or because it was created using GitHub Classroom), fork this repository to your own GitHub account by clicking the `fork` button on the GitHub interface.
+Note that you can preview this Markdown in Atom to make sure it works correctly.
 
-3. Using the terminal, clone **your version** of the repository to your machine (make sure you're in the desired directory on your terminal).
 
-4. On your machine, open up this file (`exercise-1/README.md`) in a text editor of your choice.
-
-5. In the `README.md` file, below these instructions, add an ordered list of what you ate for breakfast today.
-
-6. Using your terminal, add and commit the changes you've made to your repository
-
-7. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
-
-```
-What I had for Breakfast
-1. Grapefruit
-2. Oatmeal
-3. Water
-```
+| **Course Number**   | Course Title           | Instructor  |
+| ------------- |:-------------:| -----:|
+| **Com 325**    | _Communication, Cities, and Sustainability_| Professor Rivenburgh |
+| **INFO 201**    | _Technololgy Foundations_      |   Professor Freeman|
+| **COM 395**| _Internship_      |    To Be Arranged|
