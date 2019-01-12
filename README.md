@@ -9,7 +9,7 @@ In your `README.md` document, provide some information about a terminal command 
 
 Note that you can preview this Markdown in Atom to make sure it works correctly.
 
-# **ls **
+# ls 
 
 ```
 -ls is the command to list files in a given directory
