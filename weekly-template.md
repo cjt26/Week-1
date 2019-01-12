@@ -1,4 +1,4 @@
-# Week XX  
+# Week 1  
 
 ## Exercises
 In this section, you should provide a **bulleted list** of **links** to exercise chapters you worked on this week. At a minimum, we expect to see substantial progress on the exercises discussed in class (remember, you should be pushing commits to the work you are doing in the `book-exercises-USER-NAME/` repository). For each link (chapter), include a brief note about which skills are covered in the exercise (this will be helpful to come back to!). Feel free to link to the entire chapter, or a specific exercise. For example:
